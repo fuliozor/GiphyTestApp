@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Giphy</string>
+
+    <string name="lbl_search">Search</string>
+
+    <string name="btn_search">Search</string>
+
+    <string name="error_loading_data">Error while loading data</string>
+    <string name="error_search_string_is_empty">Search string is empty or to small</string>
+    <string name="error_empty_result">Sorry, we couldn\'t find anything.</string>
+
+</resources>
