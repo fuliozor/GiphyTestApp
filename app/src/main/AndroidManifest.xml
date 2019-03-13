@@ -15,6 +15,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
+            android:configChanges="orientation|screenSize"
             android:name="com.reactor.giphy.ui.main.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
